@@ -1,8 +1,8 @@
 GLOBAL_ <- env (api.key = "IxLBfWwkta6uI7wyQxcfri72B",
-                api.key.secret = "2ZuBlVCYxR3RgODy3spN8qacvk15vISusBGzn3x0WTu2ilzx1y",
-                bearer.token = "AAAAAAAAAAAAAAAAAAAAAPqmNgEAAAAAC5n2UcJJaH%2BHJm%2Fr7fmFSCvooUI%3DZECucVpFgMln1M2o3rIphGmKqAD13LiqqdAguy9nPmHJJv1EEi",
-                access.token =  "142098391-MUtWxBOL1enQeERyHS0rxbKNz2i0IE1AzDP3njHt",
-                access.token.secret = "5ECFWIY2iFOYzQTHcF4ofGDUQmb5SlgAZGI1KjNQF7xrj",
+                api.key.secret = "2ZuBlVCYxR3RgO3x0WTu2ilzx1y",
+                bearer.token = "HJJv1EEi",
+                access.token =  "142098391-",
+                access.token.secret = "5ECFWIY2iFOYSlgAZGI1KjNQF7xrj",
                 app = "ProjectSentimentAnalysisACC",
                 INPUT_DATA_FILE_PATH  =  "data",
                 PHOENIX = 1,
@@ -320,7 +320,7 @@ token_          <- create.token ()
 
 #keyword_ <- "O-Train Ottawa" #"@OC_Transpo" #"@OCTranspoLive" #@OCTranspoDirect #@OC_Transpo @Ottawa_Circule
 
-#keyword_ <-  "@MetroQuebec" #"@MétroVAL"
+#keyword_ <-  "@MetroQuebec" #"@MÃ©troVAL"
 
 #keyword_ <- "@PJCCI /@pontChampBridge @SDeChamplainMTL @PontChamplain @ChamplainPont @PJCCI"
 
